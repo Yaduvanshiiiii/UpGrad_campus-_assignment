@@ -1,0 +1,16 @@
+GIT QUESTIONS 
+Q1 – What is GIT?
+Ans – GIT is a distributed version control system that tracks changes in the system in any set of computer files. It is used for coordinating work among programmers collaboratively developing source code during software development.
+Q2 - What is version control?
+Ans – Version control is the practice of tracking and managing changes to software code. It is a component of software configuration management.
+Q3 – What are the alternatives of GIT?
+Ans – Some alternatives of GIT are:-
+-        Mercurial SCM
+-        Fossil
+-        Apache Subversion
+-        Pijul
+-        Bazaar
+Q4 – What is a repository in GIT?
+Ans - Git is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers who are collaboratively developing source code during the development.
+Q5 - WHo is the founder of GIT?
+Ans - Linus Torvalds, creator of Linux, along with others in the Linux development community, built and released Git in 2005.
